@@ -30,7 +30,7 @@ A simple web application that extracts text from uploaded images or PDFs using O
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/nitheshr5/ocr-to-json-web-app.git
+git clone https://github.com/nitheshr5/ocr-text-extractor
 cd ocr-to-json-web-app
 ```
 
